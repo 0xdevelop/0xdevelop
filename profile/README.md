@@ -1,3 +1,8 @@
+<div align="center">
+
+<details open>
+<summary>🇨🇳 中文</summary>
+
 # 0xdevelop | 汇贤聚技，与时偕行 🌿
 
 > 观乎天文，以察时变；观乎人文，以化成天下。  
@@ -40,3 +45,58 @@ Go 之简朴，Rust 之严谨，各有所长，因势利导，不执一端。
 以技术之力，赴时代之约。
 
 > 💡 所有公开内容均为主动披露，组织活动及成员信息默认不公示。
+
+</details>
+
+---
+
+<details>
+<summary>🇬🇧 English</summary>
+
+# 0xdevelop | Gathering Minds, Moving with the Times 🌿
+
+> Observe the heavens to discern the turning of seasons;  
+> observe humanity to shape civilization.  
+> 0xdevelop — a collective of developers who go deep on technology and stay close to the times.  
+> We walk the path of the *I Ching*: **when exhausted, change; when changed, flow; when flowing, endure.**
+
+---
+
+## 🧭 Focus Areas
+
+| Area | Description |
+|------|-------------|
+| 🤖 AI Agent Orchestration | LLM toolchains, MCP protocol, agent framework research & practice |
+| 🛠️ Developer Tooling | CLI tools, single-binary distribution, lightweight cross-platform toolchains |
+| 🖥️ System Control | Cross-platform computer control, automation infrastructure |
+| ⚙️ Legacy Code Governance | Working ≠ good. Good ≠ production-grade. We aim for long-cycle stability. |
+
+---
+
+## 🌱 Collaboration Philosophy
+
+> *"The noble mind seeks harmony, not conformity."* — Confucius
+
+No dogma in tooling choices — languages are instruments, paradigms are paths.  
+Go for clarity. Rust for rigor. Each has its place; none holds a monopoly.  
+**Ideas clash. Code decides.**
+
+---
+
+## 🔒 Privacy Stance
+
+> *"In pursuit of learning, every day something is acquired. In pursuit of the Tao, every day something is dropped."* — Laozi
+
+We keep a low profile. Metrics don't define us.  
+**Let the code speak. Let the work stand. No vanity dashboards, no follower counts.**
+
+---
+
+*"The heavens move with vigor; the noble person strengthens themselves without cease."* — I Ching  
+We build with purpose. We move with the times.
+
+> 💡 All public content is intentionally disclosed. Member activity and organizational details are private by default.
+
+</details>
+
+</div>
