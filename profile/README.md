@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇨🇳 中文](./README.zh.md)
+[![中文](https://img.shields.io/badge/🇨🇳_中文-README-red?style=for-the-badge)](./README.zh.md)
 
 </div>
 
